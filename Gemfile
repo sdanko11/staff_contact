@@ -36,7 +36,7 @@ group :test, :development do
   gem "factory_girl_rails"
   gem "shoulda-matchers"
   gem "better_errors"
-  gem "capybara"
+  gem 'capybara'
   gem "rspec-rails"
   gem "valid_attribute"
   gem "pry-rails"
